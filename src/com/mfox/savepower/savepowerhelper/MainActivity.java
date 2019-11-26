@@ -39,6 +39,8 @@ import net.frederico.showtipsview.ShowTipsBuilder;
 import net.frederico.showtipsview.ShowTipsView;
 import net.frederico.showtipsview.ShowTipsViewInterface; 
 
+//This project is only for study
+
 public class MainActivity extends Activity implements CompoundButton.OnCheckedChangeListener,
 		AdapterView.OnItemClickListener,
 		AdapterView.OnItemLongClickListener,View.OnTouchListener{
